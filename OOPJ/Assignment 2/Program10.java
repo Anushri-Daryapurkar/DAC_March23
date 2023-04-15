@@ -1,5 +1,3 @@
-package org.credit.example;
-
 import java.util.Scanner;
 
 class CreditScore{
