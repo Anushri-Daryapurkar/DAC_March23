@@ -1,4 +1,3 @@
-package org.assignment;
 import java.util.*;
 
 class Details {
