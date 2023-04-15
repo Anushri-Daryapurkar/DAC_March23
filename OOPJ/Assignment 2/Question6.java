@@ -1,5 +1,3 @@
-package org.assignment;
-
 import java.util.Scanner;
 class BankAccount{
     static Scanner sc = new Scanner(System.in);
